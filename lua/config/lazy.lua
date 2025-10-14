@@ -33,6 +33,7 @@ function M.setup()
       { import = "lazyvim.plugins.extras.lang.java" },
       { import = "lazyvim.plugins.extras.lang.python" },
       { import = "lazyvim.plugins.extras.lang.tailwind" },
+      { import = "lazyvim.plugins.extras.lang.csharp" },
       { import = "lazyvim.plugins.extras.ai.copilot" },
       { import = "lazyvim.plugins.extras.linting.eslint" },
       { import = "lazyvim.plugins.extras.ui.mini-animate" },
