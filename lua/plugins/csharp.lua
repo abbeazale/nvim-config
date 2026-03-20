@@ -29,7 +29,7 @@ return {
     optional = true,
     dependencies = {
       {
-        "williamboman/mason.nvim",
+        "mason-org/mason.nvim",
         opts = { ensure_installed = { "netcoredbg" } },
       },
     },
@@ -58,7 +58,7 @@ return {
 
   -- Additional tools
   {
-    "williamboman/mason.nvim",
+    "mason-org/mason.nvim",
     opts = { ensure_installed = { "csharpier" } },
   },
 }
